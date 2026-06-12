@@ -1,0 +1,17 @@
+{
+  "posts": [
+    {
+      "fullname": "Arman Pal",
+      "username": "arman_124",
+      "email": "armanpal1919@gmail.com",
+      "contact": "9518815215",
+      "password": "abc111",
+      "Gender": "Male",
+      "id": "A29nANvXb5Q"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "$schema": "./node_modules/json-server/schema.json"
+}
